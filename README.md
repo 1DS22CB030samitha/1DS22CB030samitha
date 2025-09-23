@@ -1,103 +1,88 @@
-## Hi there 👋
-# 👋 Hi, I'm Mogaveer Samitha  
-
-💻 **Aspiring Software Engineer | AI & Web Developer | Tech Enthusiast**  
-📍 Bengaluru, India  
-📧 [mogaveersamitha@gmail.com](mailto:mogaveersamitha@gmail.com)  
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=700&lines=Hi+I'm+Mogaveer+Samitha+👋;Aspiring+Software+Engineer+💻;AI+%26+Web+Developer+🌐;Open+Source+Contributor+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-Visit-blue?style=for-the-badge)](https://stirring-gumption-906bac.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/1DS22CB030samitha)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:mogaveersamitha@gmail.com)  
+<p align="center">
+  <a href="mailto:mogaveersamitha@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/></a>
+  <a href="https://github.com/1DS22CB030samitha"><img src="https://img.icons8.com/material-outlined/48/github.png" width="48"/></a>
+  <a href="https://stirring-gumption-906bac.netlify.app/"><img src="https://img.icons8.com/color/48/domain.png" width="48"/></a>
+</p>
 
 ---
 
-## 🏫 Education  
-- 🎓 **Dayananda Sagar College of Engineering**, Bengaluru  
-  *B.E. in Computer Science & Business Systems (2022 – 2026)*  
-- 🏫 **Global Indian International School**  
-  *Class 12 – CBSE, 2022* – Scored **70%**  
-  *Class 10 – CBSE, 2020* – Scored **89%**  
+## 🛠️ Tech Stack  
 
----
+<p align="center">
+  <!-- Programming -->
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  
+  <!-- Web -->
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
 
-## 🛠️ Technical Skills  
-
-**Languages**:  
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)  
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)  
-
-**Web Technologies**:  
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)  
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-
-**Databases**:  
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)  
-![DBMS](https://img.shields.io/badge/DBMS-green?style=for-the-badge)  
-
-**Tools & Platforms**:  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)  
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware)  
-
-**Operating Systems**:  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)  
+  <!-- DB -->
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-database-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/>
+  
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/vmware.png" alt="VMware"/>
+  
+  <!-- OS -->
+  <img src="https://img.icons8.com/color/48/windows-10.png" alt="Windows"/>
+  <img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/>
+</p>
 
 ---
 
 ## 🚀 Projects  
 
-### 🔹 [Graphical User Interface Calculator](https://github.com/1DS22CB030samitha/GUI-Calculator)  
-A simple GUI-based calculator built in **Python** with advanced arithmetic features.  
-
-### 🔹 [IntelliDoc AI - Document Analysis](https://github.com/1DS22CB030samitha/IntelliDoc)  
-An **AI-powered document summarization** tool using **HTML, CSS, Python, and AI technologies**.  
-
-### 🔹 [Personal Portfolio Website](https://github.com/1DS22CB030samitha/Portfolio-Website)  
-A responsive **portfolio website** to showcase projects and resume with clean **UI/UX design**.  
+🔹 [**GUI Calculator**](https://github.com/1DS22CB030samitha/GUI-Calculator) — GUI-based calculator in **Python**.  
+🔹 [**IntelliDoc AI**](https://github.com/1DS22CB030samitha/IntelliDoc) — AI-powered document summarization (**HTML, CSS, Python**).  
+🔹 [**Portfolio Website**](https://github.com/1DS22CB030samitha/Portfolio-Website) — Personal **portfolio website** with responsive UI/UX.  
 
 ---
 
 ## 🏆 Achievements  
-- **Youth For Seva (NGO) — Volunteer Management Coordinator**  
-  ➡️ Managed **10+ event teams**, coordinated schedules, and maintained reports.  
-
-- **National Cadet Corps (NCC) ’A’ Certificate**  
-  ➡️ Completed foundational **military training** with emphasis on leadership & civic responsibility.  
+- 🟢 Volunteer Coordinator — **Youth For Seva NGO** (led **10+ event teams**)  
+- 🎖️ NCC ‘A’ Certificate — Leadership & civic responsibility training  
 
 ---
 
 ## 📜 Certifications  
-- 🧠 **AI Infrastructure and Operations Fundamentals** — NVIDIA *(2025)*  
-- 🎯 **Dynamic Skills Integrated Program** — CIL *(2025)*  
+- 🧠 NVIDIA — **AI Infrastructure & Operations Fundamentals** (2025)  
+- 🎯 CIL — **Dynamic Skills Integrated Program** (2025)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
-![Samitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1DS22CB030samitha&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1DS22CB030samitha&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1DS22CB030samitha&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DS22CB030samitha&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1DS22CB030samitha&theme=radical&hide_border=true" height="180"/>
+</p>
 
 ---
 
-✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*  
+## 🎨 Fun Touch  
 
-<!--
-**1DS22CB030samitha/1DS22CB030samitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Keep%20Learning-💡-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborations-🤝-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Loves%20AI-🤖-orange?style=for-the-badge"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
