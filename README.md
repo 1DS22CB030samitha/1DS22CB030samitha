@@ -13,11 +13,11 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
 </div>
 
----
+---zzz
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> **Connect & Collaborate**
+## 🌐 **Connect & Collaborate**
 
 <div align="center">
   
@@ -67,7 +67,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> **Achievements & Recognition**
+## 🏆 **Achievements & Recognition**
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" /> **Leadership Excellence**
+### 🎖️ **Leadership Excellence**
 ![Volunteer](https://img.shields.io/badge/Volunteer_Coordinator-Youth_For_Seva-00FF41?style=for-the-badge&logo=heart&logoColor=black&labelColor=1a1a1a)
 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="15" height="15" /> Impact Delivered:**
