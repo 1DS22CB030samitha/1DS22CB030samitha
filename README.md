@@ -74,22 +74,34 @@
 
 <div align="center">
 
-```
-🌟 Leadership Excellence
-   └── Volunteer Coordinator @ Youth For Seva NGO
-       └── Successfully managed 10+ community service events
-       └── Led cross-functional teams of 50+ volunteers
-       
-🎖️ Military Training
-   └── NCC 'A' Certificate Holder
-       └── Leadership & civic responsibility training
-       └── Discipline & strategic thinking development
+<table>
+<tr>
+<td width="50%">
 
-🎯 Professional Development
-   └── Active Open Source Contributor
-       └── Multiple repository contributions
-       └── Community engagement & collaboration
-```
+### 🌟 **Leadership Excellence**
+![Volunteer](https://img.shields.io/badge/Volunteer_Coordinator-Youth_For_Seva-00FF41?style=for-the-badge&logo=heart&logoColor=black&labelColor=1a1a1a)
+
+**🎯 Impact Delivered:**
+- 10+ Community Events Organized
+- 50+ Volunteers Managed
+- Cross-functional Team Leadership
+
+</td>
+<td width="50%">
+
+### 🎖️ **Military Training**
+![NCC](https://img.shields.io/badge/NCC_'A'_Certificate-Leadership_Training-FF6B6B?style=for-the-badge&logo=shield&logoColor=black&labelColor=1a1a1a)
+
+**💪 Skills Developed:**
+- Strategic Thinking & Planning
+- Discipline & Time Management  
+- Civic Responsibility & Ethics
+
+</td>
+</tr>
+</table>
+
+![Open Source](https://img.shields.io/badge/🚀_Active_Open_Source_Contributor-Multiple_Repositories-4ECDC4?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a1a)
 
 </div>
 
@@ -133,23 +145,39 @@
 
 <div align="center">
 
-```
-🚀 2025 Roadmap
-   ├── 🤖 Advanced AI/ML Projects
-   │   ├── Deep Learning with TensorFlow
-   │   ├── Computer Vision Applications
-   │   └── Natural Language Processing
-   │
-   ├── 🌐 Full-Stack Development
-   │   ├── MERN Stack Mastery
-   │   ├── Cloud Architecture (AWS/Azure)
-   │   └── Microservices Design
-   │
-   └── 🏆 Open Source Contributions
-       ├── Major Repository Contributions
-       ├── Personal Project Showcases
-       └── Community Building
-```
+<table>
+<tr>
+<td align="center" width="33.33%">
+
+### 🤖 **AI & Machine Learning**
+![AI Focus](https://img.shields.io/badge/Deep_Learning-TensorFlow-FF6B35?style=flat-square&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Transformers-F7931E?style=flat-square&logo=huggingface&logoColor=white)
+
+</td>
+<td align="center" width="33.33%">
+
+### 🌐 **Full-Stack Mastery**
+![MERN](https://img.shields.io/badge/MERN_Stack-MongoDB_Express_React_Node-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Cloud](https://img.shields.io/badge/Cloud_Architecture-AWS_Azure-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-Docker_K8s-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td align="center" width="33.33%">
+
+### 🏆 **Open Source Goals**
+![Contributions](https://img.shields.io/badge/Major_Contributions-100+_Commits-00FF41?style=flat-square&logo=git&logoColor=black)
+![Projects](https://img.shields.io/badge/Personal_Projects-5+_Showcases-FF6B6B?style=flat-square&logo=github&logoColor=white)
+![Community](https://img.shields.io/badge/Community_Building-Tech_Talks-4ECDC4?style=flat-square&logo=discord&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+**🚀 2025 Milestone Targets:**
+![Target](https://img.shields.io/badge/Build_5+_AI_Projects-00FF41?style=for-the-badge&logo=target&logoColor=black&labelColor=000000)
+![Deploy](https://img.shields.io/badge/Deploy_3+_Full_Stack_Apps-FF6B6B?style=for-the-badge&logo=rocket&logoColor=black&labelColor=000000)
+![Contribute](https://img.shields.io/badge/100+_Open_Source_Commits-4ECDC4?style=for-the-badge&logo=git&logoColor=black&labelColor=000000)
 
 </div>
 
@@ -173,25 +201,52 @@
 
 <div align="center">
 
-```
-📫 How to reach me:
-   └── 📧 Email: mogaveersamitha@gmail.com
-   └── 🌐 Portfolio: https://stirring-gumption-906bac.netlify.app/
-   └── 💻 GitHub: @1DS22CB030samitha
+### 🤝 **Ready to Collaborate?**
 
-💡 I'm interested in:
-   ├── Artificial Intelligence & Machine Learning
-   ├── Full-Stack Web Development
-   ├── Open Source Projects
-   ├── UI/UX Design
-   └── Cloud Computing & DevOps
+<table>
+<tr>
+<td align="center" width="25%">
 
-🎯 Always open to:
-   ├── Innovative project collaborations
-   ├── Learning new technologies
-   ├── Contributing to open source
-   └── Networking with fellow developers
-```
+**📧 Email**
+[![Gmail](https://img.shields.io/badge/mogaveersamitha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:mogaveersamitha@gmail.com)
+
+</td>
+<td align="center" width="25%">
+
+**🌐 Portfolio**
+[![Portfolio](https://img.shields.io/badge/View_My_Work-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=1a1a1a)](https://stirring-gumption-906bac.netlify.app/)
+
+</td>
+<td align="center" width="25%">
+
+**💻 GitHub**
+[![GitHub](https://img.shields.io/badge/@1DS22CB030samitha-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/1DS22CB030samitha)
+
+</td>
+<td align="center" width="25%">
+
+**💼 LinkedIn**
+[![LinkedIn](https://img.shields.io/badge/Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💡 **What Excites Me**
+![AI ML](https://img.shields.io/badge/🤖_Artificial_Intelligence-Neural_Networks_&_Deep_Learning-FF6B35?style=flat-square&logoColor=white)
+![Web Dev](https://img.shields.io/badge/🌐_Web_Development-Full_Stack_&_Modern_Frameworks-61DAFB?style=flat-square&logoColor=black)
+![Open Source](https://img.shields.io/badge/📖_Open_Source-Community_Driven_Innovation-00FF41?style=flat-square&logoColor=black)
+
+![UI UX](https://img.shields.io/badge/🎨_UI/UX_Design-User_Centered_Experiences-FF6B6B?style=flat-square&logoColor=white)
+![Cloud](https://img.shields.io/badge/☁️_Cloud_Computing-Scalable_Architecture_&_DevOps-4ECDC4?style=flat-square&logoColor=black)
+![Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-Creative_&_Efficient_Solutions-A8E6CF?style=flat-square&logoColor=black)
+
+---
+
+### 🎯 **Always Open To**
+**🚀 Innovative Project Collaborations** • **📚 Learning Cutting-Edge Technologies** • **🤝 Open Source Contributions** • **🌟 Networking with Amazing Developers**
 
 </div>
 
