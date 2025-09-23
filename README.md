@@ -18,37 +18,27 @@
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  
-  <!-- Web -->
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
-  <img src="## 🛠️ Tech Stack  
+  <img src="https://skillicons.dev/icons?i=cpp,python" width="120" style="margin:40px;" />
+</p>
 
 <p align="center">
-  
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="120" style="margin:20px;" />
-  <img src="https://skillicons.dev/icons?i=python&theme=light" width="120" style="margin:20px;" />
-  
   <!-- Web -->
-  <img src="https://skillicons.dev/icons?i=html&theme=light" width="120" style="margin:20px;" />
-  <img src="https://skillicons.dev/icons?i=css&theme=light" width="120" style="margin:20px;" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="120" style="margin:20px;" />
-  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" width="120" style="margin:40px;" />
+</p>
+
+<p align="center">
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="120" style="margin:20px;" />
-  
+  <img src="https://skillicons.dev/icons?i=mysql" width="120" style="margin:40px;" />
+</p>
+
+<p align="center">
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git&theme=light" width="120" style="margin:20px;" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="120" style="margin:20px;" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="120" style="margin:20px;" />
-  <img src="https://skillicons.dev/icons?i=vmware&theme=light" width="120" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vmware" width="120" style="margin:40px;" />
+</p>
 
-  <!-- OS -->
-  <img src="https://skillicons.dev/icons?i=windows&theme=light" width="120" style="margin:20px;" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="120" style="margin:20px;" />
-
+<p align="center">
+  <!-- Operating Systems -->
+  <img src="https://skillicons.dev/icons?i=windows,linux" width="120" style="margin:40px;" />
 </p>
 
 
