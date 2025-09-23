@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Hi+I'm+Mogaveer+Samitha+👋;%3C+Aspiring+Software+Engineer+%2F%3E;AI+%26+Web+Developer+🌐;Open+Source+Contributor+🚀;Building+the+Future+💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Hi+I'm+Mogaveer+Samitha;%3C+Aspiring+Software+Engineer+%2F%3E;AI+%26+Web+Developer;Open+Source+Contributor;Building+the+Future" alt="Typing Animation" />
 </p>
 
 <!-- Animated Matrix Rain Effect -->
@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌐 **Connect & Collaborate**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> **Connect & Collaborate**
 
 <div align="center">
   
@@ -30,7 +30,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ **Technology Arsenal**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> **Technology Arsenal**
 
 <div align="center">
 
@@ -38,25 +38,22 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript&theme=dark" alt="Programming Languages"/>
 
 ### **Frontend Development** 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind&theme=dark" alt="Frontend"/>
 
 ### **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,firebase&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" alt="Backend"/>
 
 ### **Development Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="Tools"/>
-
-### **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark" alt="Cloud"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools"/>
 
 ### **Operating Systems**
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu&theme=dark" alt="OS"/>
+<img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="OS"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 **Featured Projects**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> **Featured Projects**
 
 <div align="center">
 
@@ -70,7 +67,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 **Achievements & Recognition**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> **Achievements & Recognition**
 
 <div align="center">
 
@@ -78,10 +75,10 @@
 <tr>
 <td width="50%">
 
-### 🌟 **Leadership Excellence**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="20" height="20" /> **Leadership Excellence**
 ![Volunteer](https://img.shields.io/badge/Volunteer_Coordinator-Youth_For_Seva-00FF41?style=for-the-badge&logo=heart&logoColor=black&labelColor=1a1a1a)
 
-**🎯 Impact Delivered:**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="15" height="15" /> Impact Delivered:**
 - 10+ Community Events Organized
 - 50+ Volunteers Managed
 - Cross-functional Team Leadership
@@ -89,10 +86,10 @@
 </td>
 <td width="50%">
 
-### 🎖️ **Military Training**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" alt="Medal" width="20" height="20" /> **Military Training**
 ![NCC](https://img.shields.io/badge/NCC_'A'_Certificate-Leadership_Training-FF6B6B?style=for-the-badge&logo=shield&logoColor=black&labelColor=1a1a1a)
 
-**💪 Skills Developed:**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights.png" alt="Strong" width="15" height="15" /> Skills Developed:**
 - Strategic Thinking & Planning
 - Discipline & Time Management  
 - Civic Responsibility & Ethics
@@ -107,7 +104,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📜 **Certifications & Learning**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="25" height="25" /> **Certifications & Learning**
 
 <div align="center">
 
@@ -120,7 +117,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 **GitHub Analytics & Performance**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> **GitHub Analytics & Performance**
 
 <div align="center">
 
@@ -141,7 +138,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 **Current Focus & Goals**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="25" height="25" /> **Current Focus & Goals**
 
 <div align="center">
 
@@ -149,7 +146,7 @@
 <tr>
 <td align="center" width="33.33%">
 
-### 🤖 **AI & Machine Learning**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="20" height="20" /> **AI & Machine Learning**
 ![AI Focus](https://img.shields.io/badge/Deep_Learning-TensorFlow-FF6B35?style=flat-square&logo=tensorflow&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Transformers-F7931E?style=flat-square&logo=huggingface&logoColor=white)
@@ -157,7 +154,7 @@
 </td>
 <td align="center" width="33.33%">
 
-### 🌐 **Full-Stack Mastery**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="20" height="20" /> **Full-Stack Mastery**
 ![MERN](https://img.shields.io/badge/MERN_Stack-MongoDB_Express_React_Node-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud_Architecture-AWS_Azure-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-Docker_K8s-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -165,7 +162,7 @@
 </td>
 <td align="center" width="33.33%">
 
-### 🏆 **Open Source Goals**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" /> **Open Source Goals**
 ![Contributions](https://img.shields.io/badge/Major_Contributions-100+_Commits-00FF41?style=flat-square&logo=git&logoColor=black)
 ![Projects](https://img.shields.io/badge/Personal_Projects-5+_Showcases-FF6B6B?style=flat-square&logo=github&logoColor=white)
 ![Community](https://img.shields.io/badge/Community_Building-Tech_Talks-4ECDC4?style=flat-square&logo=discord&logoColor=white)
@@ -174,7 +171,7 @@
 </tr>
 </table>
 
-**🚀 2025 Milestone Targets:**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="15" height="15" /> 2025 Milestone Targets:**
 ![Target](https://img.shields.io/badge/Build_5+_AI_Projects-00FF41?style=for-the-badge&logo=target&logoColor=black&labelColor=000000)
 ![Deploy](https://img.shields.io/badge/Deploy_3+_Full_Stack_Apps-FF6B6B?style=for-the-badge&logo=rocket&logoColor=black&labelColor=000000)
 ![Contribute](https://img.shields.io/badge/100+_Open_Source_Commits-4ECDC4?style=for-the-badge&logo=git&logoColor=black&labelColor=000000)
@@ -183,7 +180,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎨 **Dynamic Status Badges**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="25" height="25" /> **Dynamic Status Badges**
 
 <div align="center">
 
@@ -197,35 +194,35 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💬 **Let's Connect & Create**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" alt="Speech" width="25" height="25" /> **Let's Connect & Create**
 
 <div align="center">
 
-### 🤝 **Ready to Collaborate?**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20" /> **Ready to Collaborate?**
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-**📧 Email**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="15" height="15" /> Email**
 [![Gmail](https://img.shields.io/badge/mogaveersamitha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:mogaveersamitha@gmail.com)
 
 </td>
 <td align="center" width="25%">
 
-**🌐 Portfolio**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="15" height="15" /> Portfolio**
 [![Portfolio](https://img.shields.io/badge/View_My_Work-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=1a1a1a)](https://stirring-gumption-906bac.netlify.app/)
 
 </td>
 <td align="center" width="25%">
 
-**💻 GitHub**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15" height="15" /> GitHub**
 [![GitHub](https://img.shields.io/badge/@1DS22CB030samitha-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/1DS22CB030samitha)
 
 </td>
 <td align="center" width="25%">
 
-**💼 LinkedIn**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="15" height="15" /> LinkedIn**
 [![LinkedIn](https://img.shields.io/badge/Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](#)
 
 </td>
@@ -234,7 +231,7 @@
 
 ---
 
-### 💡 **What Excites Me**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="20" height="20" /> **What Excites Me**
 ![AI ML](https://img.shields.io/badge/🤖_Artificial_Intelligence-Neural_Networks_&_Deep_Learning-FF6B35?style=flat-square&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/🌐_Web_Development-Full_Stack_&_Modern_Frameworks-61DAFB?style=flat-square&logoColor=black)
 ![Open Source](https://img.shields.io/badge/📖_Open_Source-Community_Driven_Innovation-00FF41?style=flat-square&logoColor=black)
@@ -245,8 +242,8 @@
 
 ---
 
-### 🎯 **Always Open To**
-**🚀 Innovative Project Collaborations** • **📚 Learning Cutting-Edge Technologies** • **🤝 Open Source Contributions** • **🌟 Networking with Amazing Developers**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="20" height="20" /> **Always Open To**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="15" height="15" /> Innovative Project Collaborations** • **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="15" height="15" /> Learning Cutting-Edge Technologies** • **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="15" height="15" /> Open Source Contributions** • **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="15" height="15" /> Networking with Amazing Developers**
 
 </div>
 
