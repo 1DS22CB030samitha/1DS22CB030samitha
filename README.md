@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+I'm+Mogaveer+Samitha+👋;%3C+Aspiring+Software+Engineer+%2F%3E;AI+%26+Web+Developer+🌐;Open+Source+Contributor+🚀;Building+the+Future+💻" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Hi+I'm+Mogaveer+Samitha+👋;%3C+Aspiring+Software+Engineer+%2F%3E;AI+%26+Web+Developer+🌐;Open+Source+Contributor+🚀;Building+the+Future+💻" alt="Typing Animation" />
 </p>
 
 <!-- Animated Matrix Rain Effect -->
