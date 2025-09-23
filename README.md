@@ -23,22 +23,34 @@
   
   <!-- Web -->
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="## 🛠️ Tech Stack  
 
-  <!-- DB -->
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/external-database-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/>
+<p align="center">
+  
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="120" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" width="120" style="margin:20px;" />
+  
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html&theme=light" width="120" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=css&theme=light" width="120" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="120" style="margin:20px;" />
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="120" style="margin:20px;" />
   
   <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/vmware.png" alt="VMware"/>
-  
+  <img src="https://skillicons.dev/icons?i=git&theme=light" width="120" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="120" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="120" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=vmware&theme=light" width="120" style="margin:20px;" />
+
   <!-- OS -->
-  <img src="https://img.icons8.com/color/48/windows-10.png" alt="Windows"/>
-  <img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=windows&theme=light" width="120" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=light" width="120" style="margin:20px;" />
+
 </p>
+
 
 ---
 
