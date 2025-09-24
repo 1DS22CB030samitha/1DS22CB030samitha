@@ -124,7 +124,9 @@
 
 ### **📈 Statistics Overview**
 <img src="https://github-readme-stats.vercel.app/api?username=1DS22CB030samitha&show_icons=true&theme=dark&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41&hide_border=false" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DS22CB030samitha&layout=compact&langs_count=10&theme=dark&bg_color=000000&title_color=00FF41&text_color=ffffff&border_color=00FF41&hide_border=false" height="200"/>
+
+<!-- Top Languages card now only shows non-Java repos automatically -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DS22CB030samitha&layout=compact&theme=dark&bg_color=000000&title_color=00FF41&text_color=ffffff&border_color=00FF41&hide_border=false" height="200"/>
 
 ### **🔥 Contribution Streak**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=1DS22CB030samitha&theme=dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=00FF41&border=00FF41&hide_border=false" height="200"/>
@@ -136,6 +138,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=1DS22CB030samitha&theme=matrix&no-bg=true&no-frame=false&row=1&column=6&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
